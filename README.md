@@ -1,1 +1,1 @@
-# Crawler Dieses Repository enthält einen einfachen in Python geschriebenen Webcrawler. Dieser dient nur als Beispiel für die millionenfache Nutzung in Google oder in Kartendiensten für die Suche nach Schlagwörtern.
+# Crawler - Dieses Repository enthält einen einfachen in Python geschriebenen Webcrawler. Dieser dient nur als Beispiel für die millionenfache Nutzung in Google oder in Kartendiensten für die Suche nach Schlagwörtern.
